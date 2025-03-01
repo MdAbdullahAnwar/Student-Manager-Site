@@ -1,0 +1,12 @@
+.studentsCount {
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #34495e;
+    margin-top: 20px;
+    padding: 10px;
+    background: #ecf0f1;
+    border-radius: 5px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
